@@ -4,8 +4,8 @@ import { FaSquareXTwitter } from "react-icons/fa6";
 const socialLinks = [
   { name: "GitHub", url: "https://github.com/Prasidhpshetty7", icon: BiLogoGithub },
   { name: "LinkedIn", url: "https://www.linkedin.com/in/prasidh-shetty7/", icon: BiLogoLinkedin },
-  { name: "Instagram", url: "https://www.instagram.com/mr__shxtty/", icon: BiLogoInstagram },
-  { name: "X", url: "https://x.com/ShettyPrasidh7", icon: FaSquareXTwitter },
+  { name: "Instagram", url: "https://www.instagram.com/prasidhpshetty/", icon: BiLogoInstagram },
+  { name: "X", url: "https://x.com/prasidhpshetty", icon: FaSquareXTwitter },
 ];
 
 export default function Footer() {

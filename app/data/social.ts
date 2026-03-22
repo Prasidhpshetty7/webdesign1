@@ -25,14 +25,14 @@ export const socialLinks = [
   {
     id: 3,
     name: "Instagram",
-    url: "https://www.instagram.com/mr__shxtty/",
+    url: "https://www.instagram.com/prasidhpshetty/",
     icon: BiLogoInstagram,
     status: "social",
   },
   {
     id: 4,
     name: "X (Twitter)",
-    url: "https://x.com/ShettyPrasidh7",
+    url: "https://x.com/prasidhpshetty",
     icon: FaSquareXTwitter,
     status: "social",
   },

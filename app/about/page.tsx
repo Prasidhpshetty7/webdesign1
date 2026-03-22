@@ -62,10 +62,10 @@ export default function About() {
                 <a href="https://www.linkedin.com/in/prasidh-shetty7/" target="_blank" rel="noopener noreferrer" className="p-2 bg-white dark:bg-zinc-800 border border-gray-200 dark:border-zinc-700 rounded-lg hover:bg-gray-100 dark:hover:bg-zinc-700 transition-colors shadow-sm">
                   <BiLogoLinkedin className="text-xl" />
                 </a>
-                <a href="https://www.instagram.com/mr__shxtty/" target="_blank" rel="noopener noreferrer" className="p-2 bg-white dark:bg-zinc-800 border border-gray-200 dark:border-zinc-700 rounded-lg hover:bg-gray-100 dark:hover:bg-zinc-700 transition-colors shadow-sm">
+                <a href="https://www.instagram.com/prasidhpshetty/" target="_blank" rel="noopener noreferrer" className="p-2 bg-white dark:bg-zinc-800 border border-gray-200 dark:border-zinc-700 rounded-lg hover:bg-gray-100 dark:hover:bg-zinc-700 transition-colors shadow-sm">
                   <BiLogoInstagram className="text-xl" />
                 </a>
-                <a href="https://x.com/ShettyPrasidh7" target="_blank" rel="noopener noreferrer" className="p-2 bg-white dark:bg-zinc-800 border border-gray-200 dark:border-zinc-700 rounded-lg hover:bg-gray-100 dark:hover:bg-zinc-700 transition-colors shadow-sm">
+                <a href="https://x.com/prasidhpshetty" target="_blank" rel="noopener noreferrer" className="p-2 bg-white dark:bg-zinc-800 border border-gray-200 dark:border-zinc-700 rounded-lg hover:bg-gray-100 dark:hover:bg-zinc-700 transition-colors shadow-sm">
                   <FaSquareXTwitter className="text-xl" />
                 </a>
                 <a href="mailto:contact@prasidhshetty.com" className="p-2 bg-white dark:bg-zinc-800 border border-gray-200 dark:border-zinc-700 rounded-lg hover:bg-gray-100 dark:hover:bg-zinc-700 transition-colors shadow-sm">
