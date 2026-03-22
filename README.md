@@ -1,3 +1,19 @@
+# Webdesign1
+
+## Overview
+Webdesign1 is a frontend web design project focused on building a clean and responsive user interface. The project explores layout structure, spacing, and visual balance.
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## Development Style
+This project was built using a **vibe coding** approach, focusing on creativity, experimentation, and learning through hands-on UI building.
+
+## How to Run
+Open the `index.html` file in your browser to view the project.
+
 <div align="center">
 <a href="https://prasidh-p-shetty.com"><img src="./public/logo.png" width="60px"></a>
 </div>
@@ -124,7 +140,7 @@ This portfolio is MIT-licensed so you are free to use it as an inspiration or yo
 [planetscale]: https://planetscale.com/
 [nexttheme]: https://github.com/pacocoursey/next-themes
 [reactrefractor]: https://github.com/rexxars/react-refractor
-[site]: https://prasidh-p-shetty.com
+[site]: https://prasidhshetty.in
 [studio]: https://prasidh-p-shetty.com/studio
 [studio-preview]: https://github.com/Prasidhpshetty7/prasidh-p-shetty.com/assets/62628408/a2574479-a352-4437-ba67-14bd976e48eb
 [site-preview]: https://github.com/Prasidhpshetty7/prasidh-p-shetty.com/assets/62628408/e84ac72f-1ba1-4c46-bfc0-2512ffa0e5fa
